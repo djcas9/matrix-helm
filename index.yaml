@@ -9,7 +9,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.1.12/element-1.1.12.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.1.12/element-1.1.12.tgz
     version: 1.1.12
   - apiVersion: v2
     appVersion: 1.11.101
@@ -19,7 +19,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.1.11/element-1.1.11.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.1.11/element-1.1.11.tgz
     version: 1.1.11
   - apiVersion: v2
     appVersion: 1.11.100
@@ -29,7 +29,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.1.10/element-1.1.10.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.1.10/element-1.1.10.tgz
     version: 1.1.10
   - apiVersion: v2
     appVersion: 1.11.99
@@ -39,7 +39,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.1.9/element-1.1.9.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.1.9/element-1.1.9.tgz
     version: 1.1.9
   - apiVersion: v2
     appVersion: 1.11.98
@@ -49,7 +49,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.1.8/element-1.1.8.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.1.8/element-1.1.8.tgz
     version: 1.1.8
   - apiVersion: v2
     appVersion: 1.11.97
@@ -59,7 +59,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.1.7/element-1.1.7.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.1.7/element-1.1.7.tgz
     version: 1.1.7
   - apiVersion: v2
     appVersion: 1.11.96
@@ -69,7 +69,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.1.6/element-1.1.6.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.1.6/element-1.1.6.tgz
     version: 1.1.6
   - apiVersion: v2
     appVersion: 1.11.95
@@ -79,7 +79,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.1.5/element-1.1.5.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.1.5/element-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v2
     appVersion: 1.11.94
@@ -89,7 +89,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.1.4/element-1.1.4.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.1.4/element-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v2
     appVersion: 1.11.93
@@ -99,7 +99,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.1.3/element-1.1.3.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.1.3/element-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v2
     appVersion: 1.11.92
@@ -109,7 +109,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.1.2/element-1.1.2.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.1.2/element-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v2
     appVersion: 1.11.91
@@ -119,7 +119,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.1.1/element-1.1.1.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.1.1/element-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.11.90
@@ -129,7 +129,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.1.0/element-1.1.0.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.1.0/element-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.11.89
@@ -139,7 +139,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.62/element-1.0.62.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.62/element-1.0.62.tgz
     version: 1.0.62
   - apiVersion: v2
     appVersion: 1.11.88
@@ -149,7 +149,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.61/element-1.0.61.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.61/element-1.0.61.tgz
     version: 1.0.61
   - apiVersion: v2
     appVersion: 1.11.87
@@ -159,7 +159,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.60/element-1.0.60.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.60/element-1.0.60.tgz
     version: 1.0.60
   - apiVersion: v2
     appVersion: 1.11.86
@@ -169,7 +169,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.59/element-1.0.59.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.59/element-1.0.59.tgz
     version: 1.0.59
   - apiVersion: v2
     appVersion: 1.11.85
@@ -179,7 +179,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.58/element-1.0.58.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.58/element-1.0.58.tgz
     version: 1.0.58
   - apiVersion: v2
     appVersion: 1.11.84
@@ -189,7 +189,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.57/element-1.0.57.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.57/element-1.0.57.tgz
     version: 1.0.57
   - apiVersion: v2
     appVersion: 1.11.83
@@ -199,7 +199,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.56/element-1.0.56.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.56/element-1.0.56.tgz
     version: 1.0.56
   - apiVersion: v2
     appVersion: 1.11.82
@@ -209,7 +209,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.55/element-1.0.55.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.55/element-1.0.55.tgz
     version: 1.0.55
   - apiVersion: v2
     appVersion: 1.11.81
@@ -219,7 +219,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.54/element-1.0.54.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.54/element-1.0.54.tgz
     version: 1.0.54
   - apiVersion: v2
     appVersion: 1.11.80
@@ -229,7 +229,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.53/element-1.0.53.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.53/element-1.0.53.tgz
     version: 1.0.53
   - apiVersion: v2
     appVersion: 1.11.79
@@ -239,7 +239,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.52/element-1.0.52.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.52/element-1.0.52.tgz
     version: 1.0.52
   - apiVersion: v2
     appVersion: 1.11.78
@@ -249,7 +249,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.51/element-1.0.51.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.51/element-1.0.51.tgz
     version: 1.0.51
   - apiVersion: v2
     appVersion: 1.11.77
@@ -259,7 +259,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.50/element-1.0.50.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.50/element-1.0.50.tgz
     version: 1.0.50
   - apiVersion: v2
     appVersion: 1.11.76
@@ -269,7 +269,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.49/element-1.0.49.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.49/element-1.0.49.tgz
     version: 1.0.49
   - apiVersion: v2
     appVersion: 1.11.75
@@ -279,7 +279,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.48/element-1.0.48.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.48/element-1.0.48.tgz
     version: 1.0.48
   - apiVersion: v2
     appVersion: 1.11.74
@@ -289,7 +289,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.47/element-1.0.47.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.47/element-1.0.47.tgz
     version: 1.0.47
   - apiVersion: v2
     appVersion: 1.11.73
@@ -299,7 +299,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.46/element-1.0.46.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.46/element-1.0.46.tgz
     version: 1.0.46
   - apiVersion: v2
     appVersion: 1.11.72
@@ -309,7 +309,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.45/element-1.0.45.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.45/element-1.0.45.tgz
     version: 1.0.45
   - apiVersion: v2
     appVersion: 1.11.71
@@ -319,7 +319,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.44/element-1.0.44.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.44/element-1.0.44.tgz
     version: 1.0.44
   - apiVersion: v2
     appVersion: 1.11.70
@@ -329,7 +329,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.43/element-1.0.43.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.43/element-1.0.43.tgz
     version: 1.0.43
   - apiVersion: v2
     appVersion: 1.11.69
@@ -339,7 +339,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.42/element-1.0.42.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.42/element-1.0.42.tgz
     version: 1.0.42
   - apiVersion: v2
     appVersion: 1.11.68
@@ -349,7 +349,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.41/element-1.0.41.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.41/element-1.0.41.tgz
     version: 1.0.41
   - apiVersion: v2
     appVersion: 1.11.67
@@ -359,7 +359,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.40/element-1.0.40.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.40/element-1.0.40.tgz
     version: 1.0.40
   - apiVersion: v2
     appVersion: 1.11.66
@@ -369,7 +369,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.39/element-1.0.39.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.39/element-1.0.39.tgz
     version: 1.0.39
   - apiVersion: v2
     appVersion: 1.11.65
@@ -379,7 +379,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.38/element-1.0.38.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.38/element-1.0.38.tgz
     version: 1.0.38
   - apiVersion: v2
     appVersion: 1.11.64
@@ -389,7 +389,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.37/element-1.0.37.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.37/element-1.0.37.tgz
     version: 1.0.37
   - apiVersion: v2
     appVersion: 1.11.63
@@ -399,7 +399,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.36/element-1.0.36.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.36/element-1.0.36.tgz
     version: 1.0.36
   - apiVersion: v2
     appVersion: 1.11.62
@@ -409,7 +409,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.35/element-1.0.35.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.35/element-1.0.35.tgz
     version: 1.0.35
   - apiVersion: v2
     appVersion: 1.11.61
@@ -419,7 +419,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.34/element-1.0.34.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.34/element-1.0.34.tgz
     version: 1.0.34
   - apiVersion: v2
     appVersion: 1.11.60
@@ -429,7 +429,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.33/element-1.0.33.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.33/element-1.0.33.tgz
     version: 1.0.33
   - apiVersion: v2
     appVersion: 1.11.59
@@ -439,7 +439,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.32/element-1.0.32.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.32/element-1.0.32.tgz
     version: 1.0.32
   - apiVersion: v2
     appVersion: 1.11.58
@@ -449,7 +449,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.31/element-1.0.31.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.31/element-1.0.31.tgz
     version: 1.0.31
   - apiVersion: v2
     appVersion: 1.11.57
@@ -459,7 +459,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.30/element-1.0.30.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.30/element-1.0.30.tgz
     version: 1.0.30
   - apiVersion: v2
     appVersion: 1.11.55
@@ -469,7 +469,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.29/element-1.0.29.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.29/element-1.0.29.tgz
     version: 1.0.29
   - apiVersion: v2
     appVersion: 1.11.54
@@ -479,7 +479,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.28/element-1.0.28.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.28/element-1.0.28.tgz
     version: 1.0.28
   - apiVersion: v2
     appVersion: 1.11.53
@@ -489,7 +489,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.27/element-1.0.27.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.27/element-1.0.27.tgz
     version: 1.0.27
   - apiVersion: v2
     appVersion: 1.11.52
@@ -499,7 +499,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.26/element-1.0.26.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.26/element-1.0.26.tgz
     version: 1.0.26
   - apiVersion: v2
     appVersion: 1.11.51
@@ -509,7 +509,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.25/element-1.0.25.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.25/element-1.0.25.tgz
     version: 1.0.25
   - apiVersion: v2
     appVersion: 1.11.50
@@ -519,7 +519,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.24/element-1.0.24.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.24/element-1.0.24.tgz
     version: 1.0.24
   - apiVersion: v2
     appVersion: 1.11.49
@@ -529,7 +529,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.23/element-1.0.23.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.23/element-1.0.23.tgz
     version: 1.0.23
   - apiVersion: v2
     appVersion: 1.11.48
@@ -539,7 +539,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.22/element-1.0.22.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.22/element-1.0.22.tgz
     version: 1.0.22
   - apiVersion: v2
     appVersion: 1.11.47
@@ -549,7 +549,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.21/element-1.0.21.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.21/element-1.0.21.tgz
     version: 1.0.21
   - apiVersion: v2
     appVersion: 1.11.46
@@ -559,7 +559,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.20/element-1.0.20.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.20/element-1.0.20.tgz
     version: 1.0.20
   - apiVersion: v2
     appVersion: 1.11.45
@@ -569,7 +569,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.19/element-1.0.19.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.19/element-1.0.19.tgz
     version: 1.0.19
   - apiVersion: v2
     appVersion: 1.11.44
@@ -579,7 +579,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.18/element-1.0.18.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.18/element-1.0.18.tgz
     version: 1.0.18
   - apiVersion: v2
     appVersion: 1.11.43
@@ -589,7 +589,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.17/element-1.0.17.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.17/element-1.0.17.tgz
     version: 1.0.17
   - apiVersion: v2
     appVersion: 1.11.40
@@ -599,7 +599,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.16/element-1.0.16.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.16/element-1.0.16.tgz
     version: 1.0.16
   - apiVersion: v2
     appVersion: 1.11.39
@@ -609,7 +609,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.15/element-1.0.15.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.15/element-1.0.15.tgz
     version: 1.0.15
   - apiVersion: v2
     appVersion: 1.11.38
@@ -619,7 +619,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.14/element-1.0.14.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.14/element-1.0.14.tgz
     version: 1.0.14
   - apiVersion: v2
     appVersion: 1.11.37
@@ -629,7 +629,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.13/element-1.0.13.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.13/element-1.0.13.tgz
     version: 1.0.13
   - apiVersion: v2
     appVersion: 1.11.36
@@ -639,7 +639,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.12/element-1.0.12.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.12/element-1.0.12.tgz
     version: 1.0.12
   - apiVersion: v2
     appVersion: 1.11.35
@@ -649,7 +649,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.11/element-1.0.11.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.11/element-1.0.11.tgz
     version: 1.0.11
   - apiVersion: v2
     appVersion: 1.11.34
@@ -659,7 +659,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.10/element-1.0.10.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.10/element-1.0.10.tgz
     version: 1.0.10
   - apiVersion: v2
     appVersion: 1.11.33
@@ -669,7 +669,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.9/element-1.0.9.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.9/element-1.0.9.tgz
     version: 1.0.9
   - apiVersion: v2
     appVersion: 1.11.32
@@ -679,7 +679,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.8/element-1.0.8.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.8/element-1.0.8.tgz
     version: 1.0.8
   - apiVersion: v2
     appVersion: 1.11.31
@@ -689,7 +689,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.7/element-1.0.7.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.7/element-1.0.7.tgz
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.11.30
@@ -699,7 +699,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.6/element-1.0.6.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.6/element-1.0.6.tgz
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.11.29
@@ -709,7 +709,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.5/element-1.0.5.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.5/element-1.0.5.tgz
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.11.27
@@ -719,7 +719,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.4/element-1.0.4.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.4/element-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.11.26
@@ -729,7 +729,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.3/element-1.0.3.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.3/element-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.11.25
@@ -739,7 +739,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.2/element-1.0.2.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.2/element-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.11.24
@@ -749,7 +749,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.1/element-1.0.1.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.1/element-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.11.23
@@ -759,7 +759,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-1.0.0/element-1.0.0.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-1.0.0/element-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.11.22
@@ -769,7 +769,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-0.2.1/element-0.2.1.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-0.2.1/element-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
     appVersion: 1.11.20
@@ -779,7 +779,7 @@ entries:
     name: element
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/element-0.2.0/element-0.2.0.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/element-0.2.0/element-0.2.0.tgz
     version: 0.2.0
   matrix:
   - apiVersion: v2
@@ -792,14 +792,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.1.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 80c569c6f53f17f92d927205d6e082e517c6b185a9de6f49161aa16c9a80c83e
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.5.7/matrix-2.5.7.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.5.7/matrix-2.5.7.tgz
     version: 2.5.7
   - apiVersion: v2
     appVersion: 1.130.0
@@ -811,14 +811,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.1.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 94dc3679c5077bc66904f53c1f1fd9c971634c8baadf2a69c550f12d44daeb84
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.5.6/matrix-2.5.6.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.5.6/matrix-2.5.6.tgz
     version: 2.5.6
   - apiVersion: v2
     appVersion: 1.129.0
@@ -830,14 +830,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.1.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 22e5d795bd763b59bffc7601ae31e05e793b7bc321f278eee89c231ea5249455
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.5.5/matrix-2.5.5.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.5.5/matrix-2.5.5.tgz
     version: 2.5.5
   - apiVersion: v2
     appVersion: 1.128.0
@@ -849,14 +849,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.1.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 1b4684b522cfc5254c86bca5a242fe9d495bf25ffc02c6194c879dcf8314a6d5
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.5.4/matrix-2.5.4.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.5.4/matrix-2.5.4.tgz
     version: 2.5.4
   - apiVersion: v2
     appVersion: 1.127.1
@@ -868,14 +868,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.1.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: b250fa9f802433b99f83c5d179d6d1d5b2f61fa9d9b79c25debad45b8179bce4
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.5.3/matrix-2.5.3.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.5.3/matrix-2.5.3.tgz
     version: 2.5.3
   - apiVersion: v2
     appVersion: 1.127.0
@@ -887,14 +887,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.1.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: a2052425007ca6b64a1800ec471bafddf9344be63e76935f5eb699a481513a2b
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.5.2/matrix-2.5.2.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.5.2/matrix-2.5.2.tgz
     version: 2.5.2
   - apiVersion: v2
     appVersion: 1.126.0
@@ -906,14 +906,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.1.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 6ef8e2c864699a47703c7df5f0f3df023946c64ecc70bca17e602932a54d6545
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.5.1/matrix-2.5.1.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.5.1/matrix-2.5.1.tgz
     version: 2.5.1
   - apiVersion: v2
     appVersion: 1.126.0
@@ -925,14 +925,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.1.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: cab1f66a45f28107d0679b3607bf60fce22ebe40f6ec774757fdfeb125ac7adf
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.5.0/matrix-2.5.0.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.5.0/matrix-2.5.0.tgz
     version: 2.5.0
   - apiVersion: v2
     appVersion: 1.125.0
@@ -944,14 +944,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.1.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: d2b24d6f2215a9bf9a0241f3658390d3fceb536616960ad84bb92f1b6ae61101
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.4.3/matrix-2.4.3.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.4.3/matrix-2.4.3.tgz
     version: 2.4.3
   - apiVersion: v2
     appVersion: 1.124.0
@@ -963,14 +963,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.1.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 9a71003dadb37368cbed48bf6d49e25be4ab48be6f20d9395aa758b2bd914781
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.4.2/matrix-2.4.2.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.4.2/matrix-2.4.2.tgz
     version: 2.4.2
   - apiVersion: v2
     appVersion: 1.123.0
@@ -982,14 +982,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.1.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 56481e093dadb2af5ee861cc368bff907fe8239bf0fcaad1704a73ba1c448ea4
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.4.1/matrix-2.4.1.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.4.1/matrix-2.4.1.tgz
     version: 2.4.1
   - apiVersion: v2
     appVersion: 1.122.0
@@ -1001,14 +1001,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.1.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 024590d01722b31df259fc0ac9cf4aa057ff629e66474c0a02cb6bda33e35978
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.4.0/matrix-2.4.0.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.4.0/matrix-2.4.0.tgz
     version: 2.4.0
   - apiVersion: v2
     appVersion: 1.121.1
@@ -1020,14 +1020,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 8a78a5f90ee448292fc72e6c60477ab84c445a3d95c0e89ad2bc9c3fdca533b8
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.3.5/matrix-2.3.5.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.3.5/matrix-2.3.5.tgz
     version: 2.3.5
   - apiVersion: v2
     appVersion: 1.121.0
@@ -1039,14 +1039,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 8f2e18efd318a80b7e696c8682c7ae498be5355766854a8794280d739b38bd3b
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.3.4/matrix-2.3.4.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.3.4/matrix-2.3.4.tgz
     version: 2.3.4
   - apiVersion: v2
     appVersion: 1.120.2
@@ -1058,14 +1058,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 7aa0f9aae31fec680123516891eaee733a63beae5dc7db374f4da67792e95ae0
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.3.3/matrix-2.3.3.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.3.3/matrix-2.3.3.tgz
     version: 2.3.3
   - apiVersion: v2
     appVersion: 1.120.2
@@ -1077,14 +1077,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 70aeefdc3ad7e0e78607000a7155ecbe8c222ca7ca3dac7fb224b64f99709d14
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.3.2/matrix-2.3.2.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.3.2/matrix-2.3.2.tgz
     version: 2.3.2
   - apiVersion: v2
     appVersion: 1.120.0
@@ -1096,14 +1096,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: abac8c91cd1fdcd1de4ffe8db6f4529f84af4c88434a1983280e7f126572ff0f
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.3.1/matrix-2.3.1.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.3.1/matrix-2.3.1.tgz
     version: 2.3.1
   - apiVersion: v2
     appVersion: 1.119.0
@@ -1115,14 +1115,14 @@ entries:
       version: ^15.5.38
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: edb4858b97bd1016191b45838a6dcc2eb2d1e0f838bde6afcc6660184480d86b
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.3.0/matrix-2.3.0.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.3.0/matrix-2.3.0.tgz
     version: 2.3.0
   - apiVersion: v2
     appVersion: 1.119.0
@@ -1134,14 +1134,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 19b8dbea0584973b084d7261a83568318f5dd74edecb3d717bdb581392f53d79
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.2.11/matrix-2.2.11.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.2.11/matrix-2.2.11.tgz
     version: 2.2.11
   - apiVersion: v2
     appVersion: 1.118.0
@@ -1153,14 +1153,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: dcc5137c161b6265e12d9dbcf52891b3e80bbdfa6c72654fb49ac6b64627169a
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.2.10/matrix-2.2.10.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.2.10/matrix-2.2.10.tgz
     version: 2.2.10
   - apiVersion: v2
     appVersion: 1.117.0
@@ -1172,14 +1172,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 134923ddce0cc8adc81c0481a19a5e611da1ce442ac6267828e73c39f9798b2c
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.2.9/matrix-2.2.9.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.2.9/matrix-2.2.9.tgz
     version: 2.2.9
   - apiVersion: v2
     appVersion: 1.116.0
@@ -1191,14 +1191,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: e9402b75baceaeabba159e6438538edc6106656073afa8efa33083f395ebe45a
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.2.8/matrix-2.2.8.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.2.8/matrix-2.2.8.tgz
     version: 2.2.8
   - apiVersion: v2
     appVersion: 1.115.0
@@ -1210,14 +1210,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 44a4c13b2910c6fc56ad8fe7605209ceb0ec23598babf0f3918f8798eb74f815
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.2.7/matrix-2.2.7.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.2.7/matrix-2.2.7.tgz
     version: 2.2.7
   - apiVersion: v2
     appVersion: 1.114.0
@@ -1229,14 +1229,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: ec7de60ae12b78cb7e4d0a2a3d05bc58f9e7be85500158197789167dc578c192
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.2.6/matrix-2.2.6.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.2.6/matrix-2.2.6.tgz
     version: 2.2.6
   - apiVersion: v2
     appVersion: 1.113.0
@@ -1248,14 +1248,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 0729bd6d90b00bb9873285b7972604b1c76b9f411bc5ada8e22dc0dd2a858efc
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.2.5/matrix-2.2.5.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.2.5/matrix-2.2.5.tgz
     version: 2.2.5
   - apiVersion: v2
     appVersion: 1.112.0
@@ -1267,14 +1267,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 827d528617088eb5a035d32751700357f205f5a21b2c60e2b58d87990a49359f
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.2.4/matrix-2.2.4.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.2.4/matrix-2.2.4.tgz
     version: 2.2.4
   - apiVersion: v2
     appVersion: 1.111.1
@@ -1286,14 +1286,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 5df908d24860f14d6e1ce78b5f6f3e3b1018172fa7d49b8d100f7cf13405808d
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.2.3/matrix-2.2.3.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.2.3/matrix-2.2.3.tgz
     version: 2.2.3
   - apiVersion: v2
     appVersion: 1.111.0
@@ -1305,14 +1305,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 40d4536834e843ecedb503bc261aac56c55e43a12f137373b4893e432dc80cb2
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.2.2/matrix-2.2.2.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.2.2/matrix-2.2.2.tgz
     version: 2.2.2
   - apiVersion: v2
     appVersion: 1.110.0
@@ -1324,14 +1324,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: c7c5048d685a2ba549714470591fdceb4af59dc4ac77a1332fcb06e96150d84c
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.2.1/matrix-2.2.1.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.2.1/matrix-2.2.1.tgz
     version: 2.2.1
   - apiVersion: v2
     appVersion: 1.109.0
@@ -1343,14 +1343,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 0c63add5a77c44ee6650fd9fa900c99dfddb68e57a638206e8d469e5596a6718
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.2.0/matrix-2.2.0.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.2.0/matrix-2.2.0.tgz
     version: 2.2.0
   - apiVersion: v2
     appVersion: 1.109.0
@@ -1362,14 +1362,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 298b98b6406abcb8c5f12d7b9389c9696fb5f59b8bec1aea36674c1d43703c65
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.1.10/matrix-2.1.10.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.1.10/matrix-2.1.10.tgz
     version: 2.1.10
   - apiVersion: v2
     appVersion: 1.108.0
@@ -1381,14 +1381,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 469e3d630bf587443be9a63f396c07caed6efdcae47a0f1daca9e63a7af81c96
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.1.9/matrix-2.1.9.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.1.9/matrix-2.1.9.tgz
     version: 2.1.9
   - apiVersion: v2
     appVersion: 1.107.0
@@ -1400,14 +1400,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: d5c86b2a2805017512a118a049adc4951111906b24c3033416ab0786cd94b252
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.1.8/matrix-2.1.8.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.1.8/matrix-2.1.8.tgz
     version: 2.1.8
   - apiVersion: v2
     appVersion: 1.106.0
@@ -1419,14 +1419,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 747f7e1673f27a43260cbd68b9449640759b5a8065e3bb1ec482a5fc1cccbba3
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.1.7/matrix-2.1.7.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.1.7/matrix-2.1.7.tgz
     version: 2.1.7
   - apiVersion: v2
     appVersion: 1.105.1
@@ -1438,14 +1438,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: e6904b4cc9dc162215bc405c43e02b6d4d767b287163eaa450608da2052e14a8
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.1.6/matrix-2.1.6.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.1.6/matrix-2.1.6.tgz
     version: 2.1.6
   - apiVersion: v2
     appVersion: 1.105.0
@@ -1457,14 +1457,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 20c88afa9e254812538fb645d4a11e1994885e5a515712135a92afce914eef43
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.1.5/matrix-2.1.5.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.1.5/matrix-2.1.5.tgz
     version: 2.1.5
   - apiVersion: v2
     appVersion: 1.104.0
@@ -1476,14 +1476,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 24a9f03b3a9c988f8581be425dad117d9f0323cec06dde4cfbba515bfa4fd087
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.1.4/matrix-2.1.4.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.1.4/matrix-2.1.4.tgz
     version: 2.1.4
   - apiVersion: v2
     appVersion: 1.103.0
@@ -1495,14 +1495,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: a635abb0a64e070b7cb1330ce87adeadd3a5bdd7ca212529026f3d6fe8f847d4
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.1.3/matrix-2.1.3.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.1.3/matrix-2.1.3.tgz
     version: 2.1.3
   - apiVersion: v2
     appVersion: 1.102.0
@@ -1514,14 +1514,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: d0cf4b34e5c353ed4d01533c0b39d5ce4e8f6385e5e28a9d25a27ece920514dd
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.1.2/matrix-2.1.2.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.1.2/matrix-2.1.2.tgz
     version: 2.1.2
   - apiVersion: v2
     appVersion: 1.101.0
@@ -1533,14 +1533,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: c307c482d2bcd4966ccaed2f751a6346dd8831d35e1bc3aacc2cd2afda3a3e43
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.1.1/matrix-2.1.1.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.1.1/matrix-2.1.1.tgz
     version: 2.1.1
   - apiVersion: v2
     appVersion: 1.100.0
@@ -1552,14 +1552,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 544a10d7a70b11ddafc21925dd9c61ee9e1f283cc1c7bb43610121ef422285b1
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.1.0/matrix-2.1.0.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.1.0/matrix-2.1.0.tgz
     version: 2.1.0
   - apiVersion: v2
     appVersion: 1.100.0
@@ -1571,14 +1571,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: afe21fe637e047e789be048e30ca32b621b840fa420d30821a629c32208c723e
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.0.3/matrix-2.0.3.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.0.3/matrix-2.0.3.tgz
     version: 2.0.3
   - apiVersion: v2
     appVersion: 1.99.0
@@ -1590,14 +1590,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 8f72804c77c3765c7730dac6de526846dfe496c99d97ee8648cd94b9f5b1ec6b
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.0.2/matrix-2.0.2.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.0.2/matrix-2.0.2.tgz
     version: 2.0.2
   - apiVersion: v2
     appVersion: 1.99.0
@@ -1609,14 +1609,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 124c025476cbfd76e7278f555f19cb7a049bc8698c8bd43d45b95b4c0adb1818
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.0.1/matrix-2.0.1.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.0.1/matrix-2.0.1.tgz
     version: 2.0.1
   - apiVersion: v2
     appVersion: 1.98.0
@@ -1628,14 +1628,14 @@ entries:
       version: ^13.2.0
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: ~1.0.0
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: de9c28115c2a0e17dbd1f7436785b5922468ebc0020d7210902b25808d810fe4
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-2.0.0/matrix-2.0.0.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-2.0.0/matrix-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.98.0
@@ -1643,18 +1643,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 15660a6defcaeb0070ca93b2dacedde318a69885e92a2da5d697455951c74647
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.25/matrix-1.0.25.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.25/matrix-1.0.25.tgz
     version: 1.0.25
   - apiVersion: v2
     appVersion: 1.98.0
@@ -1662,18 +1662,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: e80fd1b680fd24805f922e6c290d0d8bedc3e6cfeac09cea3908fd8ecf5dff38
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.24/matrix-1.0.24.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.24/matrix-1.0.24.tgz
     version: 1.0.24
   - apiVersion: v2
     appVersion: 1.97.0
@@ -1681,18 +1681,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 11b631f09c63a757ac2d12c6b5b79d1c40495b442721ac2e9aeea0ade8bbe1f8
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.23/matrix-1.0.23.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.23/matrix-1.0.23.tgz
     version: 1.0.23
   - apiVersion: v2
     appVersion: 1.96.1
@@ -1700,18 +1700,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: e1c90fbaf37a89e6bbe0c0c24ea51963f17df7edb701aab9926fb89971b68139
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.22/matrix-1.0.22.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.22/matrix-1.0.22.tgz
     version: 1.0.22
   - apiVersion: v2
     appVersion: 1.95.1
@@ -1719,18 +1719,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 7f379676192021441e9ffea2a02f8bdc21b34192bfcb15dd1e8bea102d9511d3
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.21/matrix-1.0.21.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.21/matrix-1.0.21.tgz
     version: 1.0.21
   - apiVersion: v2
     appVersion: 1.95.0
@@ -1738,18 +1738,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: ad33d08fdafa1a3e930c8f99b69e40d047b840e33bf83fc6605b20c8d1d08310
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.20/matrix-1.0.20.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.20/matrix-1.0.20.tgz
     version: 1.0.20
   - apiVersion: v2
     appVersion: 1.94.0
@@ -1757,18 +1757,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 1875c06d6e59ccf4d148f5032f104e004a8a594303ce70afd773271783a8e39f
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.19/matrix-1.0.19.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.19/matrix-1.0.19.tgz
     version: 1.0.19
   - apiVersion: v2
     appVersion: 1.93.0
@@ -1776,18 +1776,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: da8cbbfb5abb0d57c51a86452808442f8500d6feccfa419c21b513b44c2bbbe3
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.18/matrix-1.0.18.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.18/matrix-1.0.18.tgz
     version: 1.0.18
   - apiVersion: v2
     appVersion: 1.92.3
@@ -1795,18 +1795,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 74d204a83ca511f698b239fe8aff0cdcbb99c6d4100defb209f8044668e270c6
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.17/matrix-1.0.17.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.17/matrix-1.0.17.tgz
     version: 1.0.17
   - apiVersion: v2
     appVersion: 1.91.0
@@ -1814,18 +1814,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: d0f25380c6cfc861e183fd22e66a2bba73ebba90a482212a40e6b9b7f79f3707
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.16/matrix-1.0.16.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.16/matrix-1.0.16.tgz
     version: 1.0.16
   - apiVersion: v2
     appVersion: 1.90.0
@@ -1833,18 +1833,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: feb8354fa760cf3383f8a18502d620c09f33518ae50fca79519e0accc5b2e81b
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.15/matrix-1.0.15.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.15/matrix-1.0.15.tgz
     version: 1.0.15
   - apiVersion: v2
     appVersion: 1.89.0
@@ -1852,18 +1852,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 7b1563fd9918ae3472cac519987c54ce403a3610a914d6f4872c97397938907c
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.14/matrix-1.0.14.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.14/matrix-1.0.14.tgz
     version: 1.0.14
   - apiVersion: v2
     appVersion: 1.88.0
@@ -1871,18 +1871,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 47051886a82bf52036bd5a09ccca1f34f4483043ccd84aea3ae94b574773ccb0
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.13/matrix-1.0.13.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.13/matrix-1.0.13.tgz
     version: 1.0.13
   - apiVersion: v2
     appVersion: 1.87.0
@@ -1890,18 +1890,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 02369923688174bf55e1af8358167563492b4e0574f6d5968a14abab68b1d506
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.12/matrix-1.0.12.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.12/matrix-1.0.12.tgz
     version: 1.0.12
   - apiVersion: v2
     appVersion: 1.86.0
@@ -1909,18 +1909,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: a17307a9b0daff06f74ef70bfe45356298e095b9f694cc86e2af6a16bb2074af
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.11/matrix-1.0.11.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.11/matrix-1.0.11.tgz
     version: 1.0.11
   - apiVersion: v2
     appVersion: 1.85.2
@@ -1928,18 +1928,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 958c5666105a1786a2d92b5cbb54d8139bae72a6e36ee6dc438568472564a2bc
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.10/matrix-1.0.10.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.10/matrix-1.0.10.tgz
     version: 1.0.10
   - apiVersion: v2
     appVersion: 1.85.1
@@ -1947,18 +1947,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: fe7a044e130308edc7b00e6f495a760d0a20d206b9cc4baf7496399f54bdc6f4
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.9/matrix-1.0.9.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.9/matrix-1.0.9.tgz
     version: 1.0.9
   - apiVersion: v2
     appVersion: 1.85.0
@@ -1966,18 +1966,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 0f8f9dcb7727009930ba78117e4ef657f9648a2a08c36bced20589e8e0d3c058
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.8/matrix-1.0.8.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.8/matrix-1.0.8.tgz
     version: 1.0.8
   - apiVersion: v2
     appVersion: 1.84.1
@@ -1985,18 +1985,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: bdaf4a9a3b2115f7ce0c5bc45777c68adaba28623168baea7e64a9600416cb2b
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.7/matrix-1.0.7.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.7/matrix-1.0.7.tgz
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.83.0
@@ -2004,18 +2004,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: d9ea147c16485645b2bc6fc11b53e1e8a09fb735009b48fb782c9e563380ea19
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.6/matrix-1.0.6.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.6/matrix-1.0.6.tgz
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.82.0
@@ -2023,18 +2023,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 4f127338383b395a2669bbf4d77742d72599b1285ed950a453eb0791563bf20c
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.5/matrix-1.0.5.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.5/matrix-1.0.5.tgz
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.81.0
@@ -2042,18 +2042,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: cd3ebf367ccd788776c8c6ff1f00e995e2f0ec4454e0e83b63faba46d162b509
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.4/matrix-1.0.4.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.4/matrix-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.80.0
@@ -2061,18 +2061,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: df3930cd7602a90934df5e7d1a1fbe15de084ee34c61a1a08e8c2b25553f1521
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.3/matrix-1.0.3.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.3/matrix-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.79.0
@@ -2080,18 +2080,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: dd3c7e8fb0d1c93f29faaf208f28bc807543d7e561f0788588d383d34cef14ec
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.2/matrix-1.0.2.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.2/matrix-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.78.0
@@ -2099,18 +2099,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 0f860ed61be02be6661c50419ad09e52b37ee342520ce97ac22bea21dac2bdd7
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.1/matrix-1.0.1.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.1/matrix-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.77.0
@@ -2118,18 +2118,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 1.0.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 7af439927d2cfbe87d4d740b847e6e92dd05cc26db03a71b2faf278c25ab938b
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-1.0.0/matrix-1.0.0.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-1.0.0/matrix-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.77.0
@@ -2137,18 +2137,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: afcc493ad40e54e099414c9319a15cc4e2a27cfd40d82d3ea2b0b7c960c352b6
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-0.2.2/matrix-0.2.2.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-0.2.2/matrix-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v2
     appVersion: 1.76.0
@@ -2156,18 +2156,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: 715f22c1649fddacc731e8b1efe60ff77aedf865014c64f6f02a0225f408b0ce
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-0.2.1/matrix-0.2.1.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-0.2.1/matrix-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
     appVersion: 1.75.0
@@ -2175,18 +2175,18 @@ entries:
     dependencies:
     - condition: postgres.enabled
       name: postgres
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     - condition: element.enabled
       name: element
-      repository: https://djcas9.github.io/matrix-helm
+      repository: https://remram44.github.io/matrix-helm
       version: 0.2.*
     description: A chart for Matrix.org, includes Synapse, PostgreSQL, and Element.
     digest: d5ec5d27786217e14cd92b513dd447609def38073e87fe287a2bbf95f7f2790d
     name: matrix
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/matrix-0.2.0/matrix-0.2.0.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/matrix-0.2.0/matrix-0.2.0.tgz
     version: 0.2.0
   postgres:
   - apiVersion: v2
@@ -2197,7 +2197,7 @@ entries:
     name: postgres
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/postgres-0.2.3/postgres-0.2.3.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/postgres-0.2.3/postgres-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v2
     appVersion: "14.7"
@@ -2207,7 +2207,7 @@ entries:
     name: postgres
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/postgres-0.2.2/postgres-0.2.2.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/postgres-0.2.2/postgres-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v2
     appVersion: "14.6"
@@ -2217,7 +2217,7 @@ entries:
     name: postgres
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/postgres-0.2.1/postgres-0.2.1.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/postgres-0.2.1/postgres-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
     appVersion: "14.4"
@@ -2227,6 +2227,6 @@ entries:
     name: postgres
     type: application
     urls:
-    - https://github.com/djcas9/matrix-helm/releases/download/postgres-0.2.0/postgres-0.2.0.tgz
+    - https://github.com/remram44/matrix-helm/releases/download/postgres-0.2.0/postgres-0.2.0.tgz
     version: 0.2.0
 generated: "2025-06-03T16:09:37.141475905Z"
